@@ -19,7 +19,10 @@ int main(){
 	cout << "Biaya Parket				: "<<BiayaP<<endl;
 	
 	BiayaPG = LuasRumah*20;
-	cout<<"Biaya Pasang				: "<<BiayaPG<<endl;
+	cout<<"Biaya Pasang	(Rp)			: "<<BiayaPG<<endl;
+	
+	
+	totalB = BiayaP+BiayaPG;
 	
 	
 }
