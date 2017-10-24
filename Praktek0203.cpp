@@ -11,4 +11,7 @@ int main(){
 	double beratTon = berat*ounce;
 	
 	cout << beratTon<<end1;
+	
+	double jumlah=1/beratTon;
+	cout << jumlah;
 }
