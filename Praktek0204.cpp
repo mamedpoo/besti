@@ -23,6 +23,7 @@ int main(){
 	
 	
 	totalB = BiayaP+BiayaPG;
+	cout<<"Total Biaya	(Rp)			: "<<totalB<<enld;
 	
 	
 }
